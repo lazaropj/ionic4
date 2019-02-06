@@ -1,6 +1,8 @@
 {
   "name": "integritas",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "d5b8f0c0"
 }
